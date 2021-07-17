@@ -29,6 +29,7 @@
 pip install pipenv
 pipenv install
 python plotter.py
+python -m pytest test.py  
 ```
 
 ### screen shots
